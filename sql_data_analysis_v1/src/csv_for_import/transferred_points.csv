@@ -1,0 +1,13 @@
+id,checking_nickname,checked_nickname,transferred_points
+1,meplese,hysleria,3
+2,parianker,meplese,1
+3,quicials,parianker,1
+4,bullertion,quicials,1
+5,hysleria,bullertion,3
+6,meplese,mortalan,2
+7,parianker,mortalan,1
+8,mortalan,bullertion,1
+9,meplese,quicials,1
+10,hysleria,meplese,1
+11,mortalan,meplese,1
+12,quicials,meplese,1
